@@ -1,0 +1,10 @@
+.rtl{
+    direction: rtl;
+}
+.text-size{
+    font-size: 29px;
+    text-align: center;
+}
+.ltr{
+    direction: ltr !important;
+}
